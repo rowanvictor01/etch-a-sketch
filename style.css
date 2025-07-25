@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 672px;
+    height: 672px;
+    border: 7px solid black;
+    padding: 0;
+    margin: 0;
+}
+
+.default-grid {
+    border: 1px solid black;
+    width: 42px;
+    height: 42px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.user-grid {
+    border: 1px solid black;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
