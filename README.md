@@ -4,7 +4,7 @@ A web-based Etch-a-Sketch app built using **vanilla JavaScript**, **HTML**, and 
 
 ## Live Preview
 
-👉 [Live Preview](link here)
+👉 [Live Preview](https://rowanvictor01.github.io/etch-a-sketch/)  
 
 ## Features
 
